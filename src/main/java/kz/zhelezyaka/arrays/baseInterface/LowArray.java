@@ -1,4 +1,4 @@
-package kz.zhelezyaka.arrays;
+package kz.zhelezyaka.arrays.baseInterface;
 
 public class LowArray {
     private long[] array;

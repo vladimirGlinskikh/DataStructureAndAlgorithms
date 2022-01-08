@@ -1,4 +1,4 @@
-package kz.zhelezyaka.arrays;
+package kz.zhelezyaka.arrays.baseInterface;
 
 public class App {
     public static void main(String[] args) {
